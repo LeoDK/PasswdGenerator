@@ -41,5 +41,3 @@ class Console:
 
     def getLength(self):
         return self._args.length
-
-
